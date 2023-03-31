@@ -1,3 +1,3 @@
 # BaseDeDatos-UNO
 
-Material de BDD1, materia cursada en la UNO
+Scripts realizados en BDD1, materia cursada en la UNO
